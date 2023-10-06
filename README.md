@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently looking for job opportunities!
 - 🔭 I'm working on [HairSaloon](https://github.com/ReviKZ/HairSaloon)
-- 🌱 I’m currently learning **Webdesign**
+- 🌱 I’m currently learning **Docker**
 - 📫 How to reach me: **kovacs.zoard.1@gmail.com**
 - ⚡ Fun fact: You know why Java devs need glasses? Because they can't C#.
 
