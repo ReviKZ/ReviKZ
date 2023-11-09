@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page! 👋
 
 - 🔭 I'm currently looking for job opportunities!
-- 🔭 I'm working on [HairSaloon](https://github.com/ReviKZ/HairSaloon)
+- 🔭 I'm working on [E-ventPlanner]([https://github.com/ReviKZ/HairSaloon](https://github.com/ReviKZ/E-ventPlanner))
 - 🌱 I’m currently learning **Java**
 - 📫 How to reach me: **kovacs.zoard.1@gmail.com**
 - ⚡ Fun fact: You know why Java devs need glasses? Because they can't C#.
