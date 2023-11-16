@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently looking for job opportunities!
 - 🔭 I'm working on [E-ventPlanner](https://github.com/ReviKZ/E-ventPlanner)
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **SAP ERP & DB2**
 - 📫 How to reach me: **kovacs.zoard.1@gmail.com**
 - ⚡ Fun fact: You know why Java devs need glasses? Because they can't C#.
 
